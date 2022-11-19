@@ -1,0 +1,52 @@
+RAPIDS version 22.06.01
+Reading train data...
+shape of data: (5531451, 190)
+shape after engineering (458913, 1813)
+There are 1813 features!
+XGB Version 1.5.1
+##################################################
+### Fold 1
+### Train size 443615 Valid size 15298
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66273	valid-logloss:0.66290
+[100]	train-logloss:0.37375	valid-logloss:0.37657
+[200]	train-logloss:0.35491	valid-logloss:0.35799
+[300]	train-logloss:0.34593	valid-logloss:0.34914
+[400]	train-logloss:0.34012	valid-logloss:0.34342
+[500]	train-logloss:0.33600	valid-logloss:0.33936
+[600]	train-logloss:0.33276	valid-logloss:0.33617
+[700]	train-logloss:0.33016	valid-logloss:0.33361
+[800]	train-logloss:0.32797	valid-logloss:0.33146
+[900]	train-logloss:0.32616	valid-logloss:0.32967
+[1000]	train-logloss:0.32451	valid-logloss:0.32806
+[1100]	train-logloss:0.32308	valid-logloss:0.32665
+[1200]	train-logloss:0.32180	valid-logloss:0.32540
+[1300]	train-logloss:0.32067	valid-logloss:0.32429
+[1400]	train-logloss:0.31967	valid-logloss:0.32331
+[1500]	train-logloss:0.31874	valid-logloss:0.32239
+[1600]	train-logloss:0.31786	valid-logloss:0.32153
+[1700]	train-logloss:0.31707	valid-logloss:0.32076
+[1800]	train-logloss:0.31633	valid-logloss:0.32003
+[1900]	train-logloss:0.31564	valid-logloss:0.31935
+[2000]	train-logloss:0.31498	valid-logloss:0.31871
+[2100]	train-logloss:0.31437	valid-logloss:0.31811
+[2200]	train-logloss:0.31380	valid-logloss:0.31755
+[2300]	train-logloss:0.31325	valid-logloss:0.31701
+[2400]	train-logloss:0.31274	valid-logloss:0.31651
+[2500]	train-logloss:0.31225	valid-logloss:0.31603
+[2600]	train-logloss:0.31178	valid-logloss:0.31556
+[2700]	train-logloss:0.31134	valid-logloss:0.31513
+[2800]	train-logloss:0.31091	valid-logloss:0.31472
+[2900]	train-logloss:0.31050	valid-logloss:0.31432
+[3000]	train-logloss:0.31012	valid-logloss:0.31394
+[3100]	train-logloss:0.30974	valid-logloss:0.31357
+[3200]	train-logloss:0.30938	valid-logloss:0.31322
+[3300]	train-logloss:0.30905	valid-logloss:0.31289
+[3400]	train-logloss:0.30872	valid-logloss:0.31257
+[3500]	train-logloss:0.30840	valid-logloss:0.31226
+[3600]	train-logloss:0.30810	valid-logloss:0.31196
+[3700]	train-logloss:0.30780	valid-logloss:0.31167
+[3800]	train-logloss:0.30750	valid-logloss:0.31138
+[3900]	train-logloss:0.30722	valid-logloss:0.31110
+[4000]	train-logloss:0.30694	valid-logloss:0.31083

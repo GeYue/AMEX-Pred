@@ -1,0 +1,600 @@
+### Fold 1
+Kaggle Metric = 0.7717781845249332 
+### Fold 2
+Kaggle Metric = 0.7953738028986752 
+### Fold 3
+Kaggle Metric = 0.7568290451666969 
+### Fold 4
+Kaggle Metric = 0.7962910407138075 
+### Fold 5
+Kaggle Metric = 0.8195684773189096 
+### Fold 6
+Kaggle Metric = 0.8019558493716112 
+### Fold 7
+Kaggle Metric = 0.8241052761624648 
+### Fold 8
+Kaggle Metric = 0.8208768192559581 
+### Fold 9
+Kaggle Metric = 0.7946412093622282 
+### Fold 10
+Kaggle Metric = 0.7689065914454141 
+### Fold 11
+Kaggle Metric = 0.7776218441130253 
+### Fold 12
+Kaggle Metric = 0.8245067216713047 
+### Fold 13
+Kaggle Metric = 0.8001153955033757 
+### Fold 14
+Kaggle Metric = 0.8375253774525779 
+### Fold 15
+Kaggle Metric = 0.7824877819464344 
+### Fold 16
+Kaggle Metric = 0.7741117284834058 
+### Fold 17
+Kaggle Metric = 0.7621930780075281 
+### Fold 18
+Kaggle Metric = 0.8124731861536482 
+### Fold 19
+Kaggle Metric = 0.7786151611209511 
+### Fold 20
+Kaggle Metric = 0.7644784856427069 
+### Fold 21
+Kaggle Metric = 0.808762324099908 
+### Fold 22
+Kaggle Metric = 0.7815930666258628 
+### Fold 23
+Kaggle Metric = 0.7633534731252103 
+### Fold 24
+Kaggle Metric = 0.8033298319924875 
+### Fold 25
+Kaggle Metric = 0.8300000542837451 
+### Fold 26
+Kaggle Metric = 0.8212113237393777 
+### Fold 27
+Kaggle Metric = 0.786497963721871 
+### Fold 28
+Kaggle Metric = 0.8169411461872743 
+### Fold 29
+Kaggle Metric = 0.7990904411484467 
+### Fold 30
+Kaggle Metric = 0.7361724844027708 
+### Fold 31
+Kaggle Metric = 0.8103671580067393 
+### Fold 32
+Kaggle Metric = 0.7902957291541951 
+### Fold 33
+Kaggle Metric = 0.7982273798601613 
+### Fold 34
+Kaggle Metric = 0.7892479437179314 
+### Fold 35
+Kaggle Metric = 0.8144897165151148 
+### Fold 36
+Kaggle Metric = 0.8066993957350955 
+### Fold 37
+Kaggle Metric = 0.8422290252072473 
+### Fold 38
+Kaggle Metric = 0.8149537746051525 
+### Fold 39
+Kaggle Metric = 0.7726659712123307 
+### Fold 40
+Kaggle Metric = 0.7284449205170691 
+### Fold 41
+Kaggle Metric = 0.7850875452204578 
+### Fold 42
+Kaggle Metric = 0.7546667621726937 
+### Fold 43
+Kaggle Metric = 0.7872384947325466 
+### Fold 44
+Kaggle Metric = 0.8058741783372142 
+### Fold 45
+Kaggle Metric = 0.7772211587498415 
+### Fold 46
+Kaggle Metric = 0.7812276382609182 
+### Fold 47
+Kaggle Metric = 0.7886950219952538 
+### Fold 48
+Kaggle Metric = 0.8128370068726118 
+### Fold 49
+Kaggle Metric = 0.816646526459599 
+### Fold 50
+Kaggle Metric = 0.82756022746203 
+### Fold 51
+Kaggle Metric = 0.7908833091603947 
+### Fold 52
+Kaggle Metric = 0.8018281288214162 
+### Fold 53
+Kaggle Metric = 0.7704794673592303 
+### Fold 54
+Kaggle Metric = 0.7785484861421782 
+### Fold 55
+Kaggle Metric = 0.7822841950995448 
+### Fold 56
+Kaggle Metric = 0.7871981015161007 
+### Fold 57
+Kaggle Metric = 0.7983239326756626 
+### Fold 58
+Kaggle Metric = 0.7514326437068513 
+### Fold 59
+Kaggle Metric = 0.8161671710571156 
+### Fold 60
+Kaggle Metric = 0.7996077326463783 
+### Fold 61
+Kaggle Metric = 0.8049704500513406 
+### Fold 62
+Kaggle Metric = 0.7809573510075426 
+### Fold 63
+Kaggle Metric = 0.7890018138722461 
+### Fold 64
+Kaggle Metric = 0.8162228049587477 
+### Fold 65
+Kaggle Metric = 0.788163213167834 
+### Fold 66
+Kaggle Metric = 0.8202012115228239 
+### Fold 67
+Kaggle Metric = 0.7807172806678975 
+### Fold 68
+Kaggle Metric = 0.8105832195201003 
+### Fold 69
+Kaggle Metric = 0.8165068121148114 
+### Fold 70
+Kaggle Metric = 0.761977638428306 
+### Fold 71
+Kaggle Metric = 0.8101229496260136 
+### Fold 72
+Kaggle Metric = 0.8078868440760291 
+### Fold 73
+Kaggle Metric = 0.7777933058482812 
+### Fold 74
+Kaggle Metric = 0.786933721413631 
+### Fold 75
+Kaggle Metric = 0.8187963037575923 
+### Fold 76
+Kaggle Metric = 0.8096659401912651 
+### Fold 77
+Kaggle Metric = 0.808689179278971 
+### Fold 78
+Kaggle Metric = 0.8029118027381946 
+### Fold 79
+Kaggle Metric = 0.8132913838286752 
+### Fold 80
+Kaggle Metric = 0.7769654160174064 
+### Fold 81
+Kaggle Metric = 0.7511223119171202 
+### Fold 82
+Kaggle Metric = 0.7953855590445786 
+### Fold 83
+Kaggle Metric = 0.7839158279047544 
+### Fold 84
+Kaggle Metric = 0.7789096078566413 
+### Fold 85
+Kaggle Metric = 0.8239536663924505 
+### Fold 86
+Kaggle Metric = 0.8351043330982627 
+### Fold 87
+Kaggle Metric = 0.8072734124265073 
+### Fold 88
+Kaggle Metric = 0.7889271432510914 
+### Fold 89
+Kaggle Metric = 0.7907585657852714 
+### Fold 90
+Kaggle Metric = 0.7839065342947151 
+### Fold 91
+Kaggle Metric = 0.8165522467350927 
+### Fold 92
+Kaggle Metric = 0.8190344817870003 
+### Fold 93
+Kaggle Metric = 0.7373117983212878 
+### Fold 94
+Kaggle Metric = 0.7428265027099554 
+### Fold 95
+Kaggle Metric = 0.804183132642635 
+### Fold 96
+Kaggle Metric = 0.8110014338218648 
+### Fold 97
+Kaggle Metric = 0.8279717206678749 
+### Fold 98
+Kaggle Metric = 0.8212695389795431 
+### Fold 99
+Kaggle Metric = 0.7915201397315108 
+### Fold 100
+Kaggle Metric = 0.7618507894209332 
+### Fold 101
+Kaggle Metric = 0.8022117092219485 
+### Fold 102
+Kaggle Metric = 0.7901963590050445 
+### Fold 103
+Kaggle Metric = 0.8003768820128769 
+### Fold 104
+Kaggle Metric = 0.7932816631762521 
+### Fold 105
+Kaggle Metric = 0.8210536797758077 
+### Fold 106
+Kaggle Metric = 0.7799867838176724 
+### Fold 107
+Kaggle Metric = 0.7607278166873783 
+### Fold 108
+Kaggle Metric = 0.7944901763924845 
+### Fold 109
+Kaggle Metric = 0.8195448556997884 
+### Fold 110
+Kaggle Metric = 0.7870131552320592 
+### Fold 111
+Kaggle Metric = 0.8088784829570579 
+### Fold 112
+Kaggle Metric = 0.8034803122385955 
+### Fold 113
+Kaggle Metric = 0.7998549816912233 
+### Fold 114
+Kaggle Metric = 0.8045792613842294 
+### Fold 115
+Kaggle Metric = 0.8088577379866941 
+### Fold 116
+Kaggle Metric = 0.8040214094882389 
+### Fold 117
+Kaggle Metric = 0.780913241179587 
+### Fold 118
+Kaggle Metric = 0.7852992111083003 
+### Fold 119
+Kaggle Metric = 0.7733151605123318 
+### Fold 120
+Kaggle Metric = 0.8003516567052747 
+### Fold 121
+Kaggle Metric = 0.7997138760013205 
+### Fold 122
+Kaggle Metric = 0.8357368128708695 
+### Fold 123
+Kaggle Metric = 0.783068245517786 
+### Fold 124
+Kaggle Metric = 0.8054451285448884 
+### Fold 125
+Kaggle Metric = 0.7994370983231693 
+### Fold 126
+Kaggle Metric = 0.8230771157628661 
+### Fold 127
+Kaggle Metric = 0.7701940944537862 
+### Fold 128
+Kaggle Metric = 0.8122156581764686 
+### Fold 129
+Kaggle Metric = 0.8159288887401792 
+### Fold 130
+Kaggle Metric = 0.7648503724506073 
+### Fold 131
+Kaggle Metric = 0.8005496016051655 
+### Fold 132
+Kaggle Metric = 0.8167325395632541 
+### Fold 133
+Kaggle Metric = 0.7937488678169756 
+### Fold 134
+Kaggle Metric = 0.8210126562695538 
+### Fold 135
+Kaggle Metric = 0.7931276162352572 
+### Fold 136
+Kaggle Metric = 0.7539629979733906 
+### Fold 137
+Kaggle Metric = 0.7992993836210454 
+### Fold 138
+Kaggle Metric = 0.7768157547736712 
+### Fold 139
+Kaggle Metric = 0.7911852750054162 
+### Fold 140
+Kaggle Metric = 0.768476636505468 
+### Fold 141
+Kaggle Metric = 0.8034138198781611 
+### Fold 142
+Kaggle Metric = 0.768136376505656 
+### Fold 143
+Kaggle Metric = 0.7682376573375307 
+### Fold 144
+Kaggle Metric = 0.7740730587623328 
+### Fold 145
+Kaggle Metric = 0.8121776264099319 
+### Fold 146
+Kaggle Metric = 0.8031472385508924 
+### Fold 147
+Kaggle Metric = 0.817528125371108 
+### Fold 148
+Kaggle Metric = 0.7996724010119707 
+### Fold 149
+Kaggle Metric = 0.7799735087119434 
+### Fold 150
+Kaggle Metric = 0.7939995040103798 
+### Fold 151
+Kaggle Metric = 0.8157508395972739 
+### Fold 152
+Kaggle Metric = 0.7849666342411872 
+### Fold 153
+Kaggle Metric = 0.7806956548100561 
+### Fold 154
+Kaggle Metric = 0.7711618707120809 
+### Fold 155
+Kaggle Metric = 0.8362179282530637 
+### Fold 156
+Kaggle Metric = 0.8007239214547249 
+### Fold 157
+Kaggle Metric = 0.7834546060339567 
+### Fold 158
+Kaggle Metric = 0.7945252056685548 
+### Fold 159
+Kaggle Metric = 0.8106420706804239 
+### Fold 160
+Kaggle Metric = 0.7688249767390243 
+### Fold 161
+Kaggle Metric = 0.7826943115958496 
+### Fold 162
+Kaggle Metric = 0.8018778316710419 
+### Fold 163
+Kaggle Metric = 0.7753251282574896 
+### Fold 164
+Kaggle Metric = 0.7970473421191869 
+### Fold 165
+Kaggle Metric = 0.7853092164749285 
+### Fold 166
+Kaggle Metric = 0.7348600581690421 
+### Fold 167
+Kaggle Metric = 0.7720201240473388 
+### Fold 168
+Kaggle Metric = 0.7886444297627351 
+### Fold 169
+Kaggle Metric = 0.794322872762751 
+### Fold 170
+Kaggle Metric = 0.7698413932461631 
+### Fold 171
+Kaggle Metric = 0.7672346001344977 
+### Fold 172
+Kaggle Metric = 0.8281599745537476 
+### Fold 173
+Kaggle Metric = 0.7923611360999879 
+### Fold 174
+Kaggle Metric = 0.7920569606998258 
+### Fold 175
+Kaggle Metric = 0.789217294521924 
+### Fold 176
+Kaggle Metric = 0.7912882712845861 
+### Fold 177
+Kaggle Metric = 0.8087809778075379 
+### Fold 178
+Kaggle Metric = 0.8032173341444198 
+### Fold 179
+Kaggle Metric = 0.8017228199266486 
+### Fold 180
+Kaggle Metric = 0.8045761265158902 
+### Fold 181
+Kaggle Metric = 0.8202004638813319 
+### Fold 182
+Kaggle Metric = 0.7968586504187232 
+### Fold 183
+Kaggle Metric = 0.782779688927767 
+### Fold 184
+Kaggle Metric = 0.7718728313741456 
+### Fold 185
+Kaggle Metric = 0.8046410539124436 
+### Fold 186
+Kaggle Metric = 0.7825721872879733 
+### Fold 187
+Kaggle Metric = 0.810513100080227 
+### Fold 188
+Kaggle Metric = 0.819389542667428 
+### Fold 189
+Kaggle Metric = 0.8004194334770776 
+### Fold 190
+Kaggle Metric = 0.7820746314075102 
+### Fold 191
+Kaggle Metric = 0.8070564756079315 
+### Fold 192
+Kaggle Metric = 0.7797282946931552 
+### Fold 193
+Kaggle Metric = 0.7802807567362261 
+### Fold 194
+Kaggle Metric = 0.7736441938510316 
+### Fold 195
+Kaggle Metric = 0.8122094814625874 
+### Fold 196
+Kaggle Metric = 0.800760953364736 
+### Fold 197
+Kaggle Metric = 0.7813399609446143 
+### Fold 198
+Kaggle Metric = 0.8000585191344873 
+### Fold 199
+Kaggle Metric = 0.7880894932162881 
+### Fold 200
+Kaggle Metric = 0.7879114373318141 
+### Fold 201
+Kaggle Metric = 0.7967187168694623 
+### Fold 202
+Kaggle Metric = 0.8013382824597267 
+### Fold 203
+Kaggle Metric = 0.7718727289234963 
+### Fold 204
+Kaggle Metric = 0.7603712655389262 
+### Fold 205
+Kaggle Metric = 0.8081131890085984 
+### Fold 206
+Kaggle Metric = 0.7833282375507454 
+### Fold 207
+Kaggle Metric = 0.8070326333897043 
+### Fold 208
+Kaggle Metric = 0.8325536542419837 
+### Fold 209
+Kaggle Metric = 0.7783853083534373 
+### Fold 210
+Kaggle Metric = 0.8050061092759366 
+### Fold 211
+Kaggle Metric = 0.8190157411847694 
+### Fold 212
+Kaggle Metric = 0.8007973603482903 
+### Fold 213
+Kaggle Metric = 0.778648197757585 
+### Fold 214
+Kaggle Metric = 0.8203913367136569 
+### Fold 215
+Kaggle Metric = 0.8140679095118453 
+### Fold 216
+Kaggle Metric = 0.812561360652581 
+### Fold 217
+Kaggle Metric = 0.7687131810812191 
+### Fold 218
+Kaggle Metric = 0.8097212162112648 
+### Fold 219
+Kaggle Metric = 0.7494031825431496 
+### Fold 220
+Kaggle Metric = 0.8263602336913389 
+### Fold 221
+Kaggle Metric = 0.7886307436372206 
+### Fold 222
+Kaggle Metric = 0.8265546637615155 
+### Fold 223
+Kaggle Metric = 0.7795300879132412 
+### Fold 224
+Kaggle Metric = 0.7917648457533497 
+### Fold 225
+Kaggle Metric = 0.8092628473546231 
+### Fold 226
+Kaggle Metric = 0.7806606204898223 
+### Fold 227
+Kaggle Metric = 0.7854576240910214 
+### Fold 228
+Kaggle Metric = 0.8187150492432574 
+### Fold 229
+Kaggle Metric = 0.8206476353568077 
+### Fold 230
+Kaggle Metric = 0.7820757681039614 
+### Fold 231
+Kaggle Metric = 0.7991520950833395 
+### Fold 232
+Kaggle Metric = 0.7656056029886081 
+### Fold 233
+Kaggle Metric = 0.7898877134507303 
+### Fold 234
+Kaggle Metric = 0.7972345947749395 
+### Fold 235
+Kaggle Metric = 0.7868527137180659 
+### Fold 236
+Kaggle Metric = 0.7685093072671801 
+### Fold 237
+Kaggle Metric = 0.8092451835899075 
+### Fold 238
+Kaggle Metric = 0.8106572899758924 
+### Fold 239
+Kaggle Metric = 0.7369843578734381 
+### Fold 240
+Kaggle Metric = 0.803482435012558 
+### Fold 241
+Kaggle Metric = 0.7859240034613282 
+### Fold 242
+Kaggle Metric = 0.785092313852946 
+### Fold 243
+Kaggle Metric = 0.7912566108459766 
+### Fold 244
+Kaggle Metric = 0.7981564709230834 
+### Fold 245
+Kaggle Metric = 0.8011668011924491 
+### Fold 246
+Kaggle Metric = 0.7688138629714204 
+### Fold 247
+Kaggle Metric = 0.7897969219762497 
+### Fold 248
+Kaggle Metric = 0.8060435061136811 
+### Fold 249
+Kaggle Metric = 0.7923355924548123 
+### Fold 250
+Kaggle Metric = 0.7865500010686325 
+### Fold 251
+Kaggle Metric = 0.7822924347105695 
+### Fold 252
+Kaggle Metric = 0.7821819358150828 
+### Fold 253
+Kaggle Metric = 0.7732145631677735 
+### Fold 254
+Kaggle Metric = 0.830751964274143 
+### Fold 255
+Kaggle Metric = 0.8110096161338711 
+### Fold 256
+Kaggle Metric = 0.7976445979467603 
+### Fold 257
+Kaggle Metric = 0.7945442455297309 
+### Fold 258
+Kaggle Metric = 0.8102303533373434 
+### Fold 259
+Kaggle Metric = 0.8117142123889252 
+### Fold 260
+Kaggle Metric = 0.8171096468728971 
+### Fold 261
+Kaggle Metric = 0.794647769592756 
+### Fold 262
+Kaggle Metric = 0.7962986991913256 
+### Fold 263
+Kaggle Metric = 0.8110254215688415 
+### Fold 264
+Kaggle Metric = 0.7923572987333503 
+### Fold 265
+Kaggle Metric = 0.7727284683127322 
+### Fold 266
+Kaggle Metric = 0.7831108503182316 
+### Fold 267
+Kaggle Metric = 0.8070926896359379 
+### Fold 268
+Kaggle Metric = 0.7995068451660986 
+### Fold 269
+Kaggle Metric = 0.8065685207769819 
+### Fold 270
+Kaggle Metric = 0.7945846999386005 
+### Fold 271
+Kaggle Metric = 0.7933707206831639 
+### Fold 272
+Kaggle Metric = 0.776175689472959 
+### Fold 273
+Kaggle Metric = 0.8174698275086815 
+### Fold 274
+Kaggle Metric = 0.8188280951688065 
+### Fold 275
+Kaggle Metric = 0.8198107114352985 
+### Fold 276
+Kaggle Metric = 0.7746285207895962 
+### Fold 277
+Kaggle Metric = 0.7728923092531522 
+### Fold 278
+Kaggle Metric = 0.7914778401993671 
+### Fold 279
+Kaggle Metric = 0.804369659987594 
+### Fold 280
+Kaggle Metric = 0.7778418407635665 
+### Fold 281
+Kaggle Metric = 0.8008792104356488 
+### Fold 282
+Kaggle Metric = 0.8263326812142787 
+### Fold 283
+Kaggle Metric = 0.7818743249579472 
+### Fold 284
+Kaggle Metric = 0.7646014610046983 
+### Fold 285
+Kaggle Metric = 0.7974250806360277 
+### Fold 286
+Kaggle Metric = 0.8215922414633744 
+### Fold 287
+Kaggle Metric = 0.7797491944868523 
+### Fold 288
+Kaggle Metric = 0.7822749132247542 
+### Fold 289
+Kaggle Metric = 0.8107012897116921 
+### Fold 290
+Kaggle Metric = 0.7872225708779867 
+### Fold 291
+Kaggle Metric = 0.8013238700420269 
+### Fold 292
+Kaggle Metric = 0.7846195542446006 
+### Fold 293
+Kaggle Metric = 0.7930165268734222 
+### Fold 294
+Kaggle Metric = 0.7566345893539225 
+### Fold 295
+Kaggle Metric = 0.7965283682398372 
+### Fold 296
+Kaggle Metric = 0.798025700640062 
+### Fold 297
+Kaggle Metric = 0.7739305850028307 
+### Fold 298
+Kaggle Metric = 0.8067192214243462 
+### Fold 299
+Kaggle Metric = 0.8132143008809798 
+### Fold 300
+Kaggle Metric = 0.8050791189333811 

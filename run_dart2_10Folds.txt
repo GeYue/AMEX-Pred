@@ -1,0 +1,481 @@
+RAPIDS version 22.06.01
+Reading train data...
+shape of data: (5531451, 190)
+shape after engineering (458913, 1813)
+There are 1813 features!
+XGB Version 1.5.1
+##################################################
+### Fold 1
+### Train size 413021 Valid size 45892
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66197	valid-logloss:0.66208
+Epoch [0 - 100] complete in 		[36m 0h 0m 27s [0m 	Total:: [32m 0h 0m 27s [0m ⏱
+[100]	train-logloss:0.25291	valid-logloss:0.25450
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[200]	train-logloss:0.23217	valid-logloss:0.23469
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 19s [0m ⏱
+[300]	train-logloss:0.22490	valid-logloss:0.22841
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 43s [0m ⏱
+[400]	train-logloss:0.22034	valid-logloss:0.22479
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 47s [0m ⏱
+[500]	train-logloss:0.21696	valid-logloss:0.22257
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 30s [0m ⏱
+[600]	train-logloss:0.21463	valid-logloss:0.22118
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 51s [0m ⏱
+[700]	train-logloss:0.21263	valid-logloss:0.22018
+Epoch [700 - 800] complete in 		[36m 0h 5m 1s [0m 	Total:: [32m 0h 21m 52s [0m ⏱
+[800]	train-logloss:0.21097	valid-logloss:0.21939
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 35s [0m ⏱
+[900]	train-logloss:0.20908	valid-logloss:0.21867
+Epoch [900 - 1000] complete in 		[36m 0h 6m 20s [0m 	Total:: [32m 0h 33m 55s [0m ⏱
+[1000]	train-logloss:0.20772	valid-logloss:0.21824
+Epoch [1000 - 1100] complete in 		[36m 0h 6m 59s [0m 	Total:: [32m 0h 40m 53s [0m ⏱
+[1100]	train-logloss:0.20637	valid-logloss:0.21784
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 35s [0m 	Total:: [32m 0h 48m 29s [0m ⏱
+[1200]	train-logloss:0.20549	valid-logloss:0.21760
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 18s [0m 	Total:: [32m 0h 56m 47s [0m ⏱
+[1300]	train-logloss:0.20421	valid-logloss:0.21734
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 56s [0m 	Total:: [32m 1h 5m 43s [0m ⏱
+[1400]	train-logloss:0.20321	valid-logloss:0.21712
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 38s [0m 	Total:: [32m 1h 15m 21s [0m ⏱
+[1500]	train-logloss:0.20195	valid-logloss:0.21692
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 16s [0m 	Total:: [32m 1h 25m 36s [0m ⏱
+[1600]	train-logloss:0.20088	valid-logloss:0.21678
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 53s [0m 	Total:: [32m 1h 36m 29s [0m ⏱
+[1700]	train-logloss:0.19999	valid-logloss:0.21665
+Total [0 - 1800] complete in 		[33m 1h 47m 57s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19890	valid-logloss:0.21657
+Kaggle Metric = 0.7964388656789387 
+
+##################################################
+### Fold 2
+### Train size 413021 Valid size 45892
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66197	valid-logloss:0.66208
+Epoch [0 - 100] complete in 		[36m 0h 0m 27s [0m 	Total:: [32m 0h 0m 27s [0m ⏱
+[100]	train-logloss:0.25247	valid-logloss:0.25674
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[200]	train-logloss:0.23192	valid-logloss:0.23765
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 20s [0m ⏱
+[300]	train-logloss:0.22466	valid-logloss:0.23135
+Epoch [300 - 400] complete in 		[36m 0h 2m 25s [0m 	Total:: [32m 0h 5m 45s [0m ⏱
+[400]	train-logloss:0.22003	valid-logloss:0.22788
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 49s [0m ⏱
+[500]	train-logloss:0.21664	valid-logloss:0.22569
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 32s [0m ⏱
+[600]	train-logloss:0.21430	valid-logloss:0.22441
+Epoch [600 - 700] complete in 		[36m 0h 4m 23s [0m 	Total:: [32m 0h 16m 54s [0m ⏱
+[700]	train-logloss:0.21230	valid-logloss:0.22345
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 57s [0m ⏱
+[800]	train-logloss:0.21058	valid-logloss:0.22273
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 40s [0m ⏱
+[900]	train-logloss:0.20868	valid-logloss:0.22208
+Epoch [900 - 1000] complete in 		[36m 0h 6m 21s [0m 	Total:: [32m 0h 34m 1s [0m ⏱
+[1000]	train-logloss:0.20724	valid-logloss:0.22166
+Epoch [1000 - 1100] complete in 		[36m 0h 7m 1s [0m 	Total:: [32m 0h 41m 2s [0m ⏱
+[1100]	train-logloss:0.20592	valid-logloss:0.22130
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 37s [0m 	Total:: [32m 0h 48m 39s [0m ⏱
+[1200]	train-logloss:0.20502	valid-logloss:0.22106
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 20s [0m 	Total:: [32m 0h 56m 60s [0m ⏱
+[1300]	train-logloss:0.20372	valid-logloss:0.22074
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 58s [0m 	Total:: [32m 1h 5m 58s [0m ⏱
+[1400]	train-logloss:0.20262	valid-logloss:0.22058
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 40s [0m 	Total:: [32m 1h 15m 38s [0m ⏱
+[1500]	train-logloss:0.20140	valid-logloss:0.22031
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 18s [0m 	Total:: [32m 1h 25m 56s [0m ⏱
+[1600]	train-logloss:0.20039	valid-logloss:0.22018
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 55s [0m 	Total:: [32m 1h 36m 51s [0m ⏱
+[1700]	train-logloss:0.19959	valid-logloss:0.22011
+Total [0 - 1800] complete in 		[33m 1h 48m 22s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19855	valid-logloss:0.21997
+Kaggle Metric = 0.7897280706356715 
+
+##################################################
+### Fold 3
+### Train size 413021 Valid size 45892
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66199	valid-logloss:0.66216
+[100]	train-logloss:0.25265	valid-logloss:0.25582
+Epoch [0 - 100] complete in 		[36m 0h 0m 27s [0m 	Total:: [32m 0h 0m 27s [0m ⏱
+[200]	train-logloss:0.23209	valid-logloss:0.23626
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[300]	train-logloss:0.22486	valid-logloss:0.22990
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 20s [0m ⏱
+[400]	train-logloss:0.22021	valid-logloss:0.22630
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 44s [0m ⏱
+[500]	train-logloss:0.21688	valid-logloss:0.22394
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 48s [0m ⏱
+[600]	train-logloss:0.21451	valid-logloss:0.22246
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 31s [0m ⏱
+[700]	train-logloss:0.21253	valid-logloss:0.22150
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 53s [0m ⏱
+[800]	train-logloss:0.21090	valid-logloss:0.22079
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 55s [0m ⏱
+[900]	train-logloss:0.20898	valid-logloss:0.22005
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 38s [0m ⏱
+[1000]	train-logloss:0.20760	valid-logloss:0.21965
+Epoch [900 - 1000] complete in 		[36m 0h 6m 21s [0m 	Total:: [32m 0h 33m 59s [0m ⏱
+[1100]	train-logloss:0.20629	valid-logloss:0.21918
+Epoch [1000 - 1100] complete in 		[36m 0h 7m 0s [0m 	Total:: [32m 0h 40m 59s [0m ⏱
+[1200]	train-logloss:0.20540	valid-logloss:0.21892
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 37s [0m 	Total:: [32m 0h 48m 36s [0m ⏱
+[1300]	train-logloss:0.20421	valid-logloss:0.21864
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 20s [0m 	Total:: [32m 0h 56m 56s [0m ⏱
+[1400]	train-logloss:0.20316	valid-logloss:0.21838
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 58s [0m 	Total:: [32m 1h 5m 54s [0m ⏱
+[1500]	train-logloss:0.20188	valid-logloss:0.21819
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 40s [0m 	Total:: [32m 1h 15m 34s [0m ⏱
+[1600]	train-logloss:0.20076	valid-logloss:0.21793
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 17s [0m 	Total:: [32m 1h 25m 51s [0m ⏱
+[1700]	train-logloss:0.19995	valid-logloss:0.21780
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 55s [0m 	Total:: [32m 1h 36m 46s [0m ⏱
+Total [0 - 1800] complete in 		[33m 1h 48m 16s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19886	valid-logloss:0.21762
+Kaggle Metric = 0.7958715026539849 
+
+##################################################
+### Fold 4
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66199	valid-logloss:0.66210
+[100]	train-logloss:0.25250	valid-logloss:0.25690
+Epoch [0 - 100] complete in 		[36m 0h 0m 27s [0m 	Total:: [32m 0h 0m 27s [0m ⏱
+[200]	train-logloss:0.23188	valid-logloss:0.23820
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[300]	train-logloss:0.22456	valid-logloss:0.23236
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 19s [0m ⏱
+[400]	train-logloss:0.21999	valid-logloss:0.22924
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 43s [0m ⏱
+[500]	train-logloss:0.21655	valid-logloss:0.22707
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 47s [0m ⏱
+[600]	train-logloss:0.21418	valid-logloss:0.22601
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 29s [0m ⏱
+[700]	train-logloss:0.21217	valid-logloss:0.22516
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 51s [0m ⏱
+[800]	train-logloss:0.21049	valid-logloss:0.22462
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 53s [0m ⏱
+[900]	train-logloss:0.20860	valid-logloss:0.22396
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 36s [0m ⏱
+[1000]	train-logloss:0.20719	valid-logloss:0.22364
+Epoch [900 - 1000] complete in 		[36m 0h 6m 20s [0m 	Total:: [32m 0h 33m 56s [0m ⏱
+[1100]	train-logloss:0.20586	valid-logloss:0.22329
+Epoch [1000 - 1100] complete in 		[36m 0h 6m 60s [0m 	Total:: [32m 0h 40m 56s [0m ⏱
+[1200]	train-logloss:0.20499	valid-logloss:0.22312
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 37s [0m 	Total:: [32m 0h 48m 33s [0m ⏱
+[1300]	train-logloss:0.20375	valid-logloss:0.22295
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 20s [0m 	Total:: [32m 0h 56m 53s [0m ⏱
+[1400]	train-logloss:0.20267	valid-logloss:0.22281
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 57s [0m 	Total:: [32m 1h 5m 50s [0m ⏱
+[1500]	train-logloss:0.20141	valid-logloss:0.22260
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 39s [0m 	Total:: [32m 1h 15m 30s [0m ⏱
+[1600]	train-logloss:0.20035	valid-logloss:0.22239
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 17s [0m 	Total:: [32m 1h 25m 47s [0m ⏱
+[1700]	train-logloss:0.19953	valid-logloss:0.22230
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 54s [0m 	Total:: [32m 1h 36m 42s [0m ⏱
+Total [0 - 1800] complete in 		[33m 1h 48m 12s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19842	valid-logloss:0.22216
+Kaggle Metric = 0.7845511290706526 
+
+##################################################
+### Fold 5
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66206	valid-logloss:0.66181
+Epoch [0 - 100] complete in 		[36m 0h 0m 28s [0m 	Total:: [32m 0h 0m 28s [0m ⏱
+[100]	train-logloss:0.25365	valid-logloss:0.25004
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[200]	train-logloss:0.23305	valid-logloss:0.22932
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 20s [0m ⏱
+[300]	train-logloss:0.22567	valid-logloss:0.22273
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 44s [0m ⏱
+[400]	train-logloss:0.22113	valid-logloss:0.21926
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 48s [0m ⏱
+[500]	train-logloss:0.21768	valid-logloss:0.21693
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 31s [0m ⏱
+[600]	train-logloss:0.21534	valid-logloss:0.21560
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 53s [0m ⏱
+[700]	train-logloss:0.21337	valid-logloss:0.21456
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 55s [0m ⏱
+[800]	train-logloss:0.21166	valid-logloss:0.21387
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 38s [0m ⏱
+[900]	train-logloss:0.20971	valid-logloss:0.21319
+Epoch [900 - 1000] complete in 		[36m 0h 6m 21s [0m 	Total:: [32m 0h 33m 59s [0m ⏱
+[1000]	train-logloss:0.20834	valid-logloss:0.21277
+Epoch [1000 - 1100] complete in 		[36m 0h 7m 0s [0m 	Total:: [32m 0h 40m 59s [0m ⏱
+[1100]	train-logloss:0.20697	valid-logloss:0.21233
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 37s [0m 	Total:: [32m 0h 48m 36s [0m ⏱
+[1200]	train-logloss:0.20607	valid-logloss:0.21212
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 20s [0m 	Total:: [32m 0h 56m 56s [0m ⏱
+[1300]	train-logloss:0.20483	valid-logloss:0.21175
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 57s [0m 	Total:: [32m 1h 5m 53s [0m ⏱
+[1400]	train-logloss:0.20377	valid-logloss:0.21161
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 40s [0m 	Total:: [32m 1h 15m 33s [0m ⏱
+[1500]	train-logloss:0.20249	valid-logloss:0.21134
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 17s [0m 	Total:: [32m 1h 25m 50s [0m ⏱
+[1600]	train-logloss:0.20145	valid-logloss:0.21124
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 55s [0m 	Total:: [32m 1h 36m 44s [0m ⏱
+[1700]	train-logloss:0.20060	valid-logloss:0.21111
+Total [0 - 1800] complete in 		[33m 1h 48m 15s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19953	valid-logloss:0.21097
+Kaggle Metric = 0.8011205663406351 
+
+##################################################
+### Fold 6
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66203	valid-logloss:0.66201
+Epoch [0 - 100] complete in 		[36m 0h 0m 27s [0m 	Total:: [32m 0h 0m 27s [0m ⏱
+[100]	train-logloss:0.25280	valid-logloss:0.25481
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[200]	train-logloss:0.23204	valid-logloss:0.23548
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 19s [0m ⏱
+[300]	train-logloss:0.22475	valid-logloss:0.22942
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 43s [0m ⏱
+[400]	train-logloss:0.22010	valid-logloss:0.22602
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 46s [0m ⏱
+[500]	train-logloss:0.21676	valid-logloss:0.22388
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 29s [0m ⏱
+[600]	train-logloss:0.21435	valid-logloss:0.22256
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 51s [0m ⏱
+[700]	train-logloss:0.21234	valid-logloss:0.22167
+Epoch [700 - 800] complete in 		[36m 0h 5m 1s [0m 	Total:: [32m 0h 21m 52s [0m ⏱
+[800]	train-logloss:0.21072	valid-logloss:0.22104
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 35s [0m ⏱
+[900]	train-logloss:0.20873	valid-logloss:0.22030
+Epoch [900 - 1000] complete in 		[36m 0h 6m 20s [0m 	Total:: [32m 0h 33m 55s [0m ⏱
+[1000]	train-logloss:0.20739	valid-logloss:0.21997
+Epoch [1000 - 1100] complete in 		[36m 0h 6m 60s [0m 	Total:: [32m 0h 40m 55s [0m ⏱
+[1100]	train-logloss:0.20608	valid-logloss:0.21963
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 36s [0m 	Total:: [32m 0h 48m 31s [0m ⏱
+[1200]	train-logloss:0.20522	valid-logloss:0.21940
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 19s [0m 	Total:: [32m 0h 56m 51s [0m ⏱
+[1300]	train-logloss:0.20392	valid-logloss:0.21916
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 57s [0m 	Total:: [32m 1h 5m 48s [0m ⏱
+[1400]	train-logloss:0.20287	valid-logloss:0.21896
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 39s [0m 	Total:: [32m 1h 15m 27s [0m ⏱
+[1500]	train-logloss:0.20161	valid-logloss:0.21878
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 17s [0m 	Total:: [32m 1h 25m 44s [0m ⏱
+[1600]	train-logloss:0.20059	valid-logloss:0.21863
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 54s [0m 	Total:: [32m 1h 36m 37s [0m ⏱
+[1700]	train-logloss:0.19978	valid-logloss:0.21853
+Total [0 - 1800] complete in 		[33m 1h 48m 7s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19868	valid-logloss:0.21840
+Kaggle Metric = 0.7882188865054038 
+
+##################################################
+### Fold 7
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66201	valid-logloss:0.66197
+[100]	train-logloss:0.25304	valid-logloss:0.25345
+Epoch [0 - 100] complete in 		[36m 0h 0m 28s [0m 	Total:: [32m 0h 0m 28s [0m ⏱
+[200]	train-logloss:0.23216	valid-logloss:0.23372
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 35s [0m ⏱
+[300]	train-logloss:0.22492	valid-logloss:0.22779
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 20s [0m ⏱
+[400]	train-logloss:0.22031	valid-logloss:0.22436
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 44s [0m ⏱
+[500]	train-logloss:0.21699	valid-logloss:0.22226
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 48s [0m ⏱
+[600]	train-logloss:0.21463	valid-logloss:0.22089
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 31s [0m ⏱
+[700]	train-logloss:0.21267	valid-logloss:0.21988
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 53s [0m ⏱
+[800]	train-logloss:0.21101	valid-logloss:0.21911
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 55s [0m ⏱
+[900]	train-logloss:0.20911	valid-logloss:0.21845
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 37s [0m ⏱
+[1000]	train-logloss:0.20770	valid-logloss:0.21793
+Epoch [900 - 1000] complete in 		[36m 0h 6m 20s [0m 	Total:: [32m 0h 33m 58s [0m ⏱
+[1100]	train-logloss:0.20636	valid-logloss:0.21755
+Epoch [1000 - 1100] complete in 		[36m 0h 6m 60s [0m 	Total:: [32m 0h 40m 58s [0m ⏱
+[1200]	train-logloss:0.20550	valid-logloss:0.21740
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 36s [0m 	Total:: [32m 0h 48m 34s [0m ⏱
+[1300]	train-logloss:0.20425	valid-logloss:0.21715
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 19s [0m 	Total:: [32m 0h 56m 53s [0m ⏱
+[1400]	train-logloss:0.20318	valid-logloss:0.21690
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 57s [0m 	Total:: [32m 1h 5m 50s [0m ⏱
+[1500]	train-logloss:0.20195	valid-logloss:0.21661
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 38s [0m 	Total:: [32m 1h 15m 28s [0m ⏱
+[1600]	train-logloss:0.20090	valid-logloss:0.21648
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 16s [0m 	Total:: [32m 1h 25m 44s [0m ⏱
+[1700]	train-logloss:0.20007	valid-logloss:0.21634
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 53s [0m 	Total:: [32m 1h 36m 38s [0m ⏱
+Total [0 - 1800] complete in 		[33m 1h 48m 7s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19897	valid-logloss:0.21612
+Kaggle Metric = 0.7963909589563131 
+
+##################################################
+### Fold 8
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66202	valid-logloss:0.66205
+Epoch [0 - 100] complete in 		[36m 0h 0m 28s [0m 	Total:: [32m 0h 0m 28s [0m ⏱
+[100]	train-logloss:0.25285	valid-logloss:0.25551
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 35s [0m ⏱
+[200]	train-logloss:0.23217	valid-logloss:0.23538
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 20s [0m ⏱
+[300]	train-logloss:0.22484	valid-logloss:0.22887
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 45s [0m ⏱
+[400]	train-logloss:0.22033	valid-logloss:0.22534
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 48s [0m ⏱
+[500]	train-logloss:0.21695	valid-logloss:0.22306
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 32s [0m ⏱
+[600]	train-logloss:0.21455	valid-logloss:0.22169
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 54s [0m ⏱
+[700]	train-logloss:0.21262	valid-logloss:0.22075
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 56s [0m ⏱
+[800]	train-logloss:0.21096	valid-logloss:0.22006
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 39s [0m ⏱
+[900]	train-logloss:0.20902	valid-logloss:0.21934
+Epoch [900 - 1000] complete in 		[36m 0h 6m 21s [0m 	Total:: [32m 0h 34m 0s [0m ⏱
+[1000]	train-logloss:0.20759	valid-logloss:0.21888
+Epoch [1000 - 1100] complete in 		[36m 0h 7m 1s [0m 	Total:: [32m 0h 41m 1s [0m ⏱
+[1100]	train-logloss:0.20624	valid-logloss:0.21853
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 37s [0m 	Total:: [32m 0h 48m 38s [0m ⏱
+[1200]	train-logloss:0.20537	valid-logloss:0.21829
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 21s [0m 	Total:: [32m 0h 56m 59s [0m ⏱
+[1300]	train-logloss:0.20407	valid-logloss:0.21793
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 58s [0m 	Total:: [32m 1h 5m 57s [0m ⏱
+[1400]	train-logloss:0.20309	valid-logloss:0.21778
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 40s [0m 	Total:: [32m 1h 15m 36s [0m ⏱
+[1500]	train-logloss:0.20182	valid-logloss:0.21752
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 17s [0m 	Total:: [32m 1h 25m 54s [0m ⏱
+[1600]	train-logloss:0.20079	valid-logloss:0.21734
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 54s [0m 	Total:: [32m 1h 36m 48s [0m ⏱
+[1700]	train-logloss:0.19997	valid-logloss:0.21721
+Total [0 - 1800] complete in 		[33m 1h 48m 19s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19886	valid-logloss:0.21703
+Kaggle Metric = 0.79357785348856 
+
+##################################################
+### Fold 9
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66199	valid-logloss:0.66202
+Epoch [0 - 100] complete in 		[36m 0h 0m 28s [0m 	Total:: [32m 0h 0m 28s [0m ⏱
+[100]	train-logloss:0.25302	valid-logloss:0.25518
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[200]	train-logloss:0.23220	valid-logloss:0.23592
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 19s [0m ⏱
+[300]	train-logloss:0.22483	valid-logloss:0.22979
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 43s [0m ⏱
+[400]	train-logloss:0.22024	valid-logloss:0.22664
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 47s [0m ⏱
+[500]	train-logloss:0.21677	valid-logloss:0.22445
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 30s [0m ⏱
+[600]	train-logloss:0.21441	valid-logloss:0.22316
+Epoch [600 - 700] complete in 		[36m 0h 4m 22s [0m 	Total:: [32m 0h 16m 52s [0m ⏱
+[700]	train-logloss:0.21243	valid-logloss:0.22228
+Epoch [700 - 800] complete in 		[36m 0h 5m 1s [0m 	Total:: [32m 0h 21m 53s [0m ⏱
+[800]	train-logloss:0.21074	valid-logloss:0.22175
+Epoch [800 - 900] complete in 		[36m 0h 5m 42s [0m 	Total:: [32m 0h 27m 36s [0m ⏱
+[900]	train-logloss:0.20879	valid-logloss:0.22112
+Epoch [900 - 1000] complete in 		[36m 0h 6m 20s [0m 	Total:: [32m 0h 33m 56s [0m ⏱
+[1000]	train-logloss:0.20736	valid-logloss:0.22070
+Epoch [1000 - 1100] complete in 		[36m 0h 6m 60s [0m 	Total:: [32m 0h 40m 55s [0m ⏱
+[1100]	train-logloss:0.20600	valid-logloss:0.22037
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 36s [0m 	Total:: [32m 0h 48m 32s [0m ⏱
+[1200]	train-logloss:0.20515	valid-logloss:0.22011
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 20s [0m 	Total:: [32m 0h 56m 51s [0m ⏱
+[1300]	train-logloss:0.20383	valid-logloss:0.21986
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 57s [0m 	Total:: [32m 1h 5m 48s [0m ⏱
+[1400]	train-logloss:0.20282	valid-logloss:0.21969
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 39s [0m 	Total:: [32m 1h 15m 27s [0m ⏱
+[1500]	train-logloss:0.20159	valid-logloss:0.21951
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 17s [0m 	Total:: [32m 1h 25m 44s [0m ⏱
+[1600]	train-logloss:0.20054	valid-logloss:0.21940
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 54s [0m 	Total:: [32m 1h 36m 38s [0m ⏱
+[1700]	train-logloss:0.19970	valid-logloss:0.21929
+Total [0 - 1800] complete in 		[33m 1h 48m 7s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19863	valid-logloss:0.21910
+Kaggle Metric = 0.7876718253418549 
+
+##################################################
+### Fold 10
+### Train size 413022 Valid size 45891
+### Training with 100% fold data...
+##################################################
+[0]	train-logloss:0.66200	valid-logloss:0.66192
+[100]	train-logloss:0.25339	valid-logloss:0.25196
+Epoch [0 - 100] complete in 		[36m 0h 0m 27s [0m 	Total:: [32m 0h 0m 27s [0m ⏱
+[200]	train-logloss:0.23255	valid-logloss:0.23210
+Epoch [100 - 200] complete in 		[36m 0h 1m 7s [0m 	Total:: [32m 0h 1m 34s [0m ⏱
+[300]	train-logloss:0.22519	valid-logloss:0.22603
+Epoch [200 - 300] complete in 		[36m 0h 1m 45s [0m 	Total:: [32m 0h 3m 20s [0m ⏱
+[400]	train-logloss:0.22068	valid-logloss:0.22272
+Epoch [300 - 400] complete in 		[36m 0h 2m 24s [0m 	Total:: [32m 0h 5m 44s [0m ⏱
+[500]	train-logloss:0.21723	valid-logloss:0.22048
+Epoch [400 - 500] complete in 		[36m 0h 3m 4s [0m 	Total:: [32m 0h 8m 48s [0m ⏱
+[600]	train-logloss:0.21489	valid-logloss:0.21927
+Epoch [500 - 600] complete in 		[36m 0h 3m 43s [0m 	Total:: [32m 0h 12m 32s [0m ⏱
+[700]	train-logloss:0.21289	valid-logloss:0.21833
+Epoch [600 - 700] complete in 		[36m 0h 4m 23s [0m 	Total:: [32m 0h 16m 54s [0m ⏱
+[800]	train-logloss:0.21118	valid-logloss:0.21765
+Epoch [700 - 800] complete in 		[36m 0h 5m 2s [0m 	Total:: [32m 0h 21m 56s [0m ⏱
+[900]	train-logloss:0.20925	valid-logloss:0.21708
+Epoch [800 - 900] complete in 		[36m 0h 5m 43s [0m 	Total:: [32m 0h 27m 40s [0m ⏱
+[1000]	train-logloss:0.20787	valid-logloss:0.21663
+Epoch [900 - 1000] complete in 		[36m 0h 6m 21s [0m 	Total:: [32m 0h 34m 0s [0m ⏱
+[1100]	train-logloss:0.20653	valid-logloss:0.21626
+Epoch [1000 - 1100] complete in 		[36m 0h 7m 1s [0m 	Total:: [32m 0h 41m 1s [0m ⏱
+[1200]	train-logloss:0.20563	valid-logloss:0.21605
+Epoch [1100 - 1200] complete in 		[36m 0h 7m 38s [0m 	Total:: [32m 0h 48m 38s [0m ⏱
+[1300]	train-logloss:0.20443	valid-logloss:0.21578
+Epoch [1200 - 1300] complete in 		[36m 0h 8m 20s [0m 	Total:: [32m 0h 56m 59s [0m ⏱
+[1400]	train-logloss:0.20339	valid-logloss:0.21566
+Epoch [1300 - 1400] complete in 		[36m 0h 8m 58s [0m 	Total:: [32m 1h 5m 57s [0m ⏱
+[1500]	train-logloss:0.20211	valid-logloss:0.21545
+Epoch [1400 - 1500] complete in 		[36m 0h 9m 40s [0m 	Total:: [32m 1h 15m 37s [0m ⏱
+[1600]	train-logloss:0.20106	valid-logloss:0.21526
+Epoch [1500 - 1600] complete in 		[36m 0h 10m 18s [0m 	Total:: [32m 1h 25m 55s [0m ⏱
+[1700]	train-logloss:0.20020	valid-logloss:0.21511
+Epoch [1600 - 1700] complete in 		[36m 0h 10m 55s [0m 	Total:: [32m 1h 36m 50s [0m ⏱
+Total [0 - 1800] complete in 		[33m 1h 48m 21s [0m ⏰🪔🕯
+[1799]	train-logloss:0.19914	valid-logloss:0.21502
+Kaggle Metric = 0.798958793728537 
+
+#########################
+OVERALL CV Kaggle Metric = 0.7931222601014074
+Reading test data...
+shape of data: (11363762, 2)
+We will process test data as 4 separate parts.
+There will be 231155 customers in each part (except the last part).
+Below are number of rows in each part:
+[2841209, 2839857, 2842105, 2840591]
+
+Reading test data...
+shape of data: (11363762, 190)
+=> Test part 1 has shape (2841209, 190)
+shape after engineering (231155, 1813)
+
+Reading test data...
+shape of data: (11363762, 190)
+=> Test part 2 has shape (2839857, 190)
+shape after engineering (231155, 1813)
+
+Reading test data...
+shape of data: (11363762, 190)
+=> Test part 3 has shape (2842105, 190)
+shape after engineering (231155, 1813)
+
+Reading test data...
+shape of data: (11363762, 190)
+=> Test part 4 has shape (2840591, 190)
+shape after engineering (231156, 1813)
+Submission file shape is (924621, 2)
+                                         customer_ID  prediction
+0  00059a7fc495b3bc71df7c4d90800d8ee83377ef8fe4ad...    0.922111
+1  0005e9310aa1df684c26af1e4b2bc4dffec4cca8118d45...    0.664017
+2  0005ffc8a2acf9c3e50fb51199e1496f0e85d5c5d4b666...    0.999219
+3  00060d11377aeeb0ff2cf060f5e280cafe2ba41a0b75eb...    0.091264
+4  00060e999d9fb1dbc50ee286413b1d53d3283759b9aa21...    0.006590
